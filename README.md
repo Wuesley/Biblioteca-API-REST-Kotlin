@@ -60,32 +60,5 @@ O projeto inclui testes unitários para todas as camadas principais (controller,
 mvn test
 ```
 
-## 📊 Estrutura do Projeto
 
-```
-src/
-├── main/
-│   ├── java/
-│   │   └── com/
-│   │       └── biblioteca/
-│   │           ├── config/       # Configurações (Security, Swagger)
-│   │           ├── controller/   # Controladores REST
-│   │           ├── dto/          # Objetos de Transferência de Dados
-│   │           ├── model/        # Entidades JPA
-│   │           ├── repository/   # Repositórios Spring Data
-│   │           ├── service/      # Lógica de negócio
-│   │           └── util/         # Utilitários
-│   └── resources/
-│       ├── application.properties
-└── test/                         # Testes unitários
-```
 
-## 🔗 Repositório
-
-📁 [Link do Repositório](#) *(a ser adicionado manualmente)*
-
-## 👨‍💻 Autor
-
-[Nome do Autor]  
-[Contato/Email]  
-[Data de Desenvolvimento]
